@@ -1,7 +1,6 @@
 #### Questions to Answer
 
 
-TRY THIS 
 
 1. Select with an `x` the platform you will be using for your course deliverables:
 
@@ -10,6 +9,9 @@ TRY THIS
     - [ ] Orbstack on MacOs
     - [ ] VMWare Fusion
     - [ ] Somthing else (put name here)
+
+    TRY THIS 
+    not sure this is right
 
 2. I have installed my virtual machine, tested it, feel comfortable using it, and validated that the required software is installed:
 
