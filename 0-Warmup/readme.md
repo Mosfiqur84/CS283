@@ -4,7 +4,7 @@
 
 1. Select with an `x` the platform you will be using for your course deliverables:
 
-R    - [x] drexel's tux cluster
+    - [x] drexel's tux cluster
     - [ ] WSL on Windows
     - [ ] Orbstack on MacOs
     - [ ] VMWare Fusion
