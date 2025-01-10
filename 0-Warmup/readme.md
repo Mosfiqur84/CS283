@@ -1,5 +1,8 @@
 #### Questions to Answer
 
+
+TRY THIS 
+
 1. Select with an `x` the platform you will be using for your course deliverables:
 
     - [x] drexel's tux cluster
